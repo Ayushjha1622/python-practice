@@ -1,4 +1,2 @@
-num1 = int(input("enter your value"))
-num2 = int(input("enter your value"))
-avg = (num1+num2)/2
-print(avg)
+letter = "dear harry,\n\t this python course is nice.\n\t thanks!"
+print(letter)
