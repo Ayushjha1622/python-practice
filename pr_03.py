@@ -1,3 +1,2 @@
-st = "this a string  with double spaces"  # gives index of doubleSpaces if not then -1 
-doubleSpaces = st.find("  ")
-print(doubleSpaces)
+a = (1,2,3,4,5)
+a[0] = 56
