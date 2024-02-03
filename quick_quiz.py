@@ -1,7 +1,10 @@
-age=int(input("enter your age: "))
+def greet(name="Stranger"):
+    print("good day, "+ name)
+    
+# def mysum(num1,num2):
+#     return num1+num2   
 
-if age>=18:
-    print("yes")
-else:
-    print("no")
-
+greet("ayush")
+greet()
+# s=mysum(6,32)
+# print(s)
