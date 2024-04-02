@@ -1,0 +1,17 @@
+a=input("Enter value: ")
+b=input("Enter value: ")
+c=input("Enter value: ")
+d=[a,b,c]
+print(d)
+# e=input("Enter value: ")
+# f=input("Enter value: ")
+# g=input("Enter value: ")
+# h=[e,f,g]
+# print(h)
+# print((d+h))
+# print(list[0])
+# # d.append("it is sunny")
+# # print(d)
+# d.extend(h)
+# print(d)
+print(d[0])
