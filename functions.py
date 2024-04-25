@@ -1,7 +1,28 @@
-marks1=[45,56,67,78]
-percentage1 = (sum(marks1)/4)*100
+# name = str(input("NAME : "))
+# def sayhello(name):
+#     return name
+# x="hello"
+# print(name)
 
-marks2=[46,57,68,79]
-percentage2 = (sum(marks2)/4)*100
-print(percentage1,percentage2)
 
+x=int(input("enter your number: "))
+y=int(input("enter your number: "))
+
+def add(x,y):
+    return (x+y)
+def sub(x,y):
+    return (x-y)
+z=add(x,y)
+v=sub(x,y)
+print(z)
+print(v)
+
+
+
+
+
+
+
+
+    
+    
